@@ -10,8 +10,8 @@ Gb Subdomain Scanner is a python3 tool designed to quickly enumerate subdomains 
 ###### You need python3, pip3, git.
 
 ```
-git clone https://github.com/GbolahanAnon/Gbscanner.git
-cd Gbscanner
+git clone https://github.com/GbolahanAnon/Gb-subdomain-scanner.git
+cd Gb-subdomain-scanner
 pip3 install -r requirements.txt
 python3 gbscanner.py <DOMAIN>
 ```
