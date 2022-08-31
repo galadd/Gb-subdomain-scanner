@@ -1,6 +1,6 @@
-# Gbscanner 
+# Gb Subdomain Scanner 
 
-Gbscanner is a python3 tool designed to quickly enumerate subdomains on a target domain through dictionary attack.
+Gb Subdomain Scanner is a python3 tool designed to quickly enumerate subdomains on a target domain through dictionary attack.
 
 ### Very simply
 ```python3 gbscanner.py domain.com```
